@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Domain\bin\Debug\net8.0\MicroServiceDiscipline.Domain.deps.json
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Domain\bin\Debug\net8.0\MicroServiceDiscipline.Domain.dll
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Domain\bin\Debug\net8.0\MicroServiceDiscipline.Domain.pdb
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Domain\obj\Debug\net8.0\MicroServiceDiscipline.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Domain\obj\Debug\net8.0\MicroServiceDiscipline.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Domain\obj\Debug\net8.0\MicroServiceDiscipline.Domain.AssemblyInfo.cs
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Domain\obj\Debug\net8.0\MicroServiceDiscipline.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Domain\obj\Debug\net8.0\MicroServiceDiscipline.Domain.dll
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Domain\obj\Debug\net8.0\refint\MicroServiceDiscipline.Domain.dll
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Domain\obj\Debug\net8.0\MicroServiceDiscipline.Domain.pdb
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Domain\obj\Debug\net8.0\ref\MicroServiceDiscipline.Domain.dll

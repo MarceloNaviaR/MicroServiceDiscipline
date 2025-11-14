@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<!-- ESTA SECCIÓN ES LA MÁS IMPORTANTE -->
+	<!-- Le dice a este proyecto que tiene permiso para usar el código del proyecto Domain -->
+	<ItemGroup>
+		<ProjectReference Include="..\MicroServiceDiscipline.Domain\MicroServiceDiscipline.Domain.csproj" />
+	</ItemGroup>
+
+</Project>

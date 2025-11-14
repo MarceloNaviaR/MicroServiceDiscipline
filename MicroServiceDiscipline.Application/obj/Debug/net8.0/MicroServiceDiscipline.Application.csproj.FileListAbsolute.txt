@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\obj\Debug\net8.0\MicroServiceDiscipline.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\obj\Debug\net8.0\MicroServiceDiscipline.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\obj\Debug\net8.0\MicroServiceDiscipline.Application.AssemblyInfo.cs
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\obj\Debug\net8.0\MicroServiceDiscipline.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\bin\Debug\net8.0\MicroServiceDiscipline.Application.deps.json
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\bin\Debug\net8.0\MicroServiceDiscipline.Application.dll
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\bin\Debug\net8.0\MicroServiceDiscipline.Application.pdb
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\bin\Debug\net8.0\MicroServiceDiscipline.Domain.dll
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\bin\Debug\net8.0\MicroServiceDiscipline.Domain.pdb
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\obj\Debug\net8.0\MicroServiceDiscipline.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\obj\Debug\net8.0\MicroSer.5F598577.Up2Date
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\obj\Debug\net8.0\MicroServiceDiscipline.Application.dll
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\obj\Debug\net8.0\refint\MicroServiceDiscipline.Application.dll
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\obj\Debug\net8.0\MicroServiceDiscipline.Application.pdb
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\obj\Debug\net8.0\ref\MicroServiceDiscipline.Application.dll
