@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\MicroServiceDiscipline.Application\MicroServiceDiscipline.Application.csproj" />
     <ProjectReference Include="..\MicroServiceDiscipline.Domain\MicroServiceDiscipline.Domain.csproj" />
     <ProjectReference Include="..\MicroServiceDiscipline.Infrastructure\MicroServiceDiscipline.Infrastructure.csproj" />

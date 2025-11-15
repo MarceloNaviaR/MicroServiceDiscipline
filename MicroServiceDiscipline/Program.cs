@@ -9,7 +9,7 @@ using MicroServiceDiscipline.Domain.Ports;
 using MicroServiceDiscipline.Infrastructure.Persistence; // O .Repository, según tu carpeta
 
 var builder = WebApplication.CreateBuilder(args);
-
+Dapper.DefaultTypeMap.MatchNamesWithUnderscores = true;
 // 1. REGISTRO DE SERVICIOS
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

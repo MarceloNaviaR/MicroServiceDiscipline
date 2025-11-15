@@ -1,0 +1,10 @@
+# Archivos y carpetas de Visual Studio y .NET
+/.vs/
+/bin/
+/obj/
+*.user
+*.suo
+
+# Archivos del sistema operativo
+Thumbs.db
+desktop.ini
