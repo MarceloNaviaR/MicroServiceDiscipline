@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroServiceDiscipline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7188bc8273eb3e33fa5714ba6feefde3ad4963e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a81a070eca6508c057a4a1e55ef0e1c5df544d36")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroServiceDiscipline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroServiceDiscipline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
