@@ -20,6 +20,9 @@ namespace MicroServiceDiscipline.Application.Services
             var nameValidationError = DisciplineValidationRules.ValidateName(discipline.Name);
             if (nameValidationError != null) return Result<int>.Failure(nameValidationError);
 
+            var descriptionValidationError = DisciplineValidationRules.ValidateDecription(discipline.Description);
+            if (descriptionValidationError != null) return Result<int>.Failure(descriptionValidationError);
+
             var timeValidationError = DisciplineValidationRules.ValidateTimes(discipline.StartTime, discipline.EndTime);
             if (timeValidationError != null) return Result<int>.Failure(timeValidationError);
 

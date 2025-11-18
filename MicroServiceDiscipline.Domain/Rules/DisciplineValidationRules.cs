@@ -43,5 +43,23 @@ namespace MicroServiceDiscipline.Domain.Rules
                 return "El horario de la disciplina debe estar entre las 08:00 AM y las 07:00 PM.";
             return null;
         }
+        public static string? ValidateDecription(string description)
+        {
+            int letterCount = description.Count(char.IsLetter);
+            int digitCount = description.Count(char.IsDigit);
+            if (string.IsNullOrWhiteSpace(description))
+                return "La descripción de la disciplina no puede estar vacía.";
+            if (!AllowedCharsRegex.IsMatch(description))
+                return "La descripción de la disciplina contiene caracteres no permitidos.";
+            if (digitCount > 3)
+                return "La descripción no puede contener más de 3 números.";
+            if (digitCount > 0 && letterCount < 5)
+                return "Si la descripción contiene números, debe estar acompañado por al menos 5 letras.";
+            if (letterCount < 3)
+                return "La descripción debe contener al menos 3 letras.";
+            if (description.Length > 50)
+                return "La descripción de la disciplina no puede exceder los 50 caracteres.";
+            return null;
+        }
     }
 }
