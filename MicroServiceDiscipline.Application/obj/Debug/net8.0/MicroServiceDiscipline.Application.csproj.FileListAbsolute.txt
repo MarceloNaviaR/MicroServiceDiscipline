@@ -13,3 +13,4 @@ C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Applicatio
 C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\obj\Debug\net8.0\refint\MicroServiceDiscipline.Application.dll
 C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\obj\Debug\net8.0\MicroServiceDiscipline.Application.pdb
 C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\obj\Debug\net8.0\ref\MicroServiceDiscipline.Application.dll
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline.Application\obj\Debug\net8.0\MicroServiceDiscipline.Application.sourcelink.json

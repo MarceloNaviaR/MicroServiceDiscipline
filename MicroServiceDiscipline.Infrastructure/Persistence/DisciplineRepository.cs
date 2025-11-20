@@ -1,54 +1,47 @@
-﻿using Dapper;
-using MicroServiceDiscipline.Domain.Entities;
+﻿using MicroServiceDiscipline.Domain.Entities;
 using MicroServiceDiscipline.Domain.Ports;
-using Microsoft.Extensions.Configuration;
-using Npgsql;
-using System.Data;
 
 namespace MicroServiceDiscipline.Infrastructure.Persistence
 {
     public class DisciplineRepository : IDisciplineRepository
     {
-        private readonly string _connectionString;
-
-        public DisciplineRepository(IConfiguration configuration)
+        private static readonly List<Discipline> _disciplines = new()
         {
-            _connectionString = configuration.GetConnectionString("DefaultConnection")
-                ?? throw new InvalidOperationException("La cadena de conexión 'DefaultConnection' no fue encontrada.");
+            new Discipline { Id = 1, Name = "Yoga", Description = "Clases de relajación.", StartTime = new(8,0,0), EndTime = new(9,0,0), InstructorId = 101, CreatedAt = DateTime.UtcNow, CreatedBy = "system" },
+            new Discipline { Id = 2, Name = "Spinning", Description = "Clases de ciclismo.", StartTime = new(18,0,0), EndTime = new(19,0,0), InstructorId = 102, CreatedAt = DateTime.UtcNow, CreatedBy = "system" },
+        };
+        private static int _nextId = 3;
+
+        public Task<int> AddAsync(Discipline discipline)
+        {
+            // <-- PUNTO DE INTERRUPCIÓN 3 AQUÍ
+            discipline.Id = _nextId++;
+            _disciplines.Add(discipline);
+            return Task.FromResult(discipline.Id);
         }
 
-        public async Task<int> AddAsync(Discipline discipline)
+        public Task<bool> DeleteAsync(int id)
         {
-            using IDbConnection connection = new NpgsqlConnection(_connectionString);
-            var sql = @"INSERT INTO public.disciplines (name, description, start_time, end_time, instructor_id, created_at, created_by) VALUES (@Name, @Description, @StartTime, @EndTime, @InstructorId, @CreatedAt, @CreatedBy) RETURNING id;";
-            return await connection.ExecuteScalarAsync<int>(sql, discipline);
+            var item = _disciplines.FirstOrDefault(d => d.Id == id);
+            return item != null ? Task.FromResult(_disciplines.Remove(item)) : Task.FromResult(false);
         }
 
-        public async Task<bool> UpdateAsync(Discipline discipline)
+        public Task<IEnumerable<Discipline>> GetAllAsync()
         {
-            using IDbConnection connection = new NpgsqlConnection(_connectionString);
-            var sql = @"UPDATE public.disciplines SET name = @Name, description = @Description, start_time = @StartTime, end_time = @EndTime, instructor_id = @InstructorId, last_modification = @LastModification, last_modified_by = @LastModifiedBy WHERE id = @Id;";
-            var affectedRows = await connection.ExecuteAsync(sql, discipline);
-            return affectedRows > 0;
+            return Task.FromResult<IEnumerable<Discipline>>(_disciplines);
         }
 
-        public async Task<Discipline?> GetByIdAsync(int id)
+        public Task<Discipline?> GetByIdAsync(int id)
         {
-            using IDbConnection connection = new NpgsqlConnection(_connectionString);
-            return await connection.QueryFirstOrDefaultAsync<Discipline>("SELECT * FROM public.disciplines WHERE id = @Id", new { Id = id });
+            return Task.FromResult(_disciplines.FirstOrDefault(d => d.Id == id));
         }
 
-        public async Task<IEnumerable<Discipline>> GetAllAsync()
+        public Task<bool> UpdateAsync(Discipline discipline)
         {
-            using IDbConnection connection = new NpgsqlConnection(_connectionString);
-            return await connection.QueryAsync<Discipline>("SELECT * FROM public.disciplines ORDER BY name");
-        }
-
-        public async Task<bool> DeleteAsync(int id)
-        {
-            using IDbConnection connection = new NpgsqlConnection(_connectionString);
-            var affectedRows = await connection.ExecuteAsync("DELETE FROM public.disciplines WHERE id = @Id", new { Id = id });
-            return affectedRows > 0;
+            var index = _disciplines.FindIndex(d => d.Id == discipline.Id);
+            if (index == -1) return Task.FromResult(false);
+            _disciplines[index] = discipline;
+            return Task.FromResult(true);
         }
     }
 }

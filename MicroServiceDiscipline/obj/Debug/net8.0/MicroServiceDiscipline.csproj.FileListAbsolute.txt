@@ -41,3 +41,4 @@ C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline\obj\Debug\
 C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline\obj\Debug\net8.0\MicroServiceDiscipline.pdb
 C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline\obj\Debug\net8.0\MicroServiceDiscipline.genruntimeconfig.cache
 C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline\obj\Debug\net8.0\ref\MicroServiceDiscipline.dll
+C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline\obj\Debug\net8.0\MicroServiceDiscipline.sourcelink.json

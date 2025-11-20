@@ -1,1 +1,81 @@
-[]
+[
+  {
+    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplinesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Disciplines",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplinesController",
+    "Method": "Create",
+    "RelativePath": "api/Disciplines",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "discipline",
+        "Type": "MicroServiceDiscipline.Domain.Entities.Discipline",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplinesController",
+    "Method": "GetById",
+    "RelativePath": "api/Disciplines/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplinesController",
+    "Method": "Update",
+    "RelativePath": "api/Disciplines/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "discipline",
+        "Type": "MicroServiceDiscipline.Domain.Entities.Discipline",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplinesController",
+    "Method": "Delete",
+    "RelativePath": "api/Disciplines/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

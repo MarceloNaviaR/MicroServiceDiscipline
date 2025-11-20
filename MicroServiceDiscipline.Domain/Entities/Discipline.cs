@@ -1,5 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-namespace MicroServiceDiscipline.Domain.Entities
+﻿namespace MicroServiceDiscipline.Domain.Entities
 {
     public class Discipline
     {
