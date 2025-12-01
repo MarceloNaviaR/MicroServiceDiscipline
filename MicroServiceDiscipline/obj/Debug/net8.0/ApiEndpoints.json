@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplinesController",
+    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplineController",
     "Method": "GetAll",
-    "RelativePath": "api/Disciplines",
+    "RelativePath": "api/Discipline",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -10,9 +10,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplinesController",
+    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplineController",
     "Method": "Create",
-    "RelativePath": "api/Disciplines",
+    "RelativePath": "api/Discipline",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -26,9 +26,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplinesController",
+    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplineController",
     "Method": "GetById",
-    "RelativePath": "api/Disciplines/{id}",
+    "RelativePath": "api/Discipline/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -42,9 +42,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplinesController",
+    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplineController",
     "Method": "Update",
-    "RelativePath": "api/Disciplines/{id}",
+    "RelativePath": "api/Discipline/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -63,9 +63,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplinesController",
+    "ContainingType": "MicroServiceDiscipline.Controllers.DisciplineController",
     "Method": "Delete",
-    "RelativePath": "api/Disciplines/{id}",
+    "RelativePath": "api/Discipline/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,

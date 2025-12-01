@@ -3,80 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DECC7F43-DA99-479B-8C43-4A7CDB8B81F1}|MicroServiceDiscipline.Infrastructure\\MicroServiceDiscipline.Infrastructure.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.infrastructure\\persistence\\disciplinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DECC7F43-DA99-479B-8C43-4A7CDB8B81F1}|MicroServiceDiscipline.Infrastructure\\MicroServiceDiscipline.Infrastructure.csproj|solutionrelative:microservicediscipline.infrastructure\\persistence\\disciplinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline\\controllers\\disciplinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|solutionrelative:microservicediscipline\\controllers\\disciplinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|solutionrelative:microservicediscipline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33F7D8DC-CC91-4A22-BE89-91F116C39590}|MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.application\\services\\disciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33F7D8DC-CC91-4A22-BE89-91F116C39590}|MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj|solutionrelative:microservicediscipline.application\\services\\disciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33F7D8DC-CC91-4A22-BE89-91F116C39590}|MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.application\\interfaces\\idisciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33F7D8DC-CC91-4A22-BE89-91F116C39590}|MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj|solutionrelative:microservicediscipline.application\\interfaces\\idisciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33F7D8DC-CC91-4A22-BE89-91F116C39590}|MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.application\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33F7D8DC-CC91-4A22-BE89-91F116C39590}|MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj|solutionrelative:microservicediscipline.application\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{420BF4ED-57AC-490D-8216-93D451CFC000}|MicroServiceDiscipline.Domain\\MicroServiceDiscipline.Domain.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.domain\\ports\\idisciplinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{420BF4ED-57AC-490D-8216-93D451CFC000}|MicroServiceDiscipline.Domain\\MicroServiceDiscipline.Domain.csproj|solutionrelative:microservicediscipline.domain\\ports\\idisciplinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{420BF4ED-57AC-490D-8216-93D451CFC000}|MicroServiceDiscipline.Domain\\MicroServiceDiscipline.Domain.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.domain\\entities\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{420BF4ED-57AC-490D-8216-93D451CFC000}|MicroServiceDiscipline.Domain\\MicroServiceDiscipline.Domain.csproj|solutionrelative:microservicediscipline.domain\\entities\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline\\controllers\\disciplinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|solutionrelative:microservicediscipline\\controllers\\disciplinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|solutionrelative:microservicediscipline\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33F7D8DC-CC91-4A22-BE89-91F116C39590}|MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.application\\dtos\\disciplinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33F7D8DC-CC91-4A22-BE89-91F116C39590}|MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj|solutionrelative:microservicediscipline.application\\dtos\\disciplinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33F7D8DC-CC91-4A22-BE89-91F116C39590}|MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.application\\services\\disciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F7D8DC-CC91-4A22-BE89-91F116C39590}|MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj|solutionrelative:microservicediscipline.application\\services\\disciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DECC7F43-DA99-479B-8C43-4A7CDB8B81F1}|MicroServiceDiscipline.Infrastructure\\MicroServiceDiscipline.Infrastructure.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.infrastructure\\dependencyinjection\\disciplinemoduleservicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DECC7F43-DA99-479B-8C43-4A7CDB8B81F1}|MicroServiceDiscipline.Infrastructure\\MicroServiceDiscipline.Infrastructure.csproj|solutionrelative:microservicediscipline.infrastructure\\dependencyinjection\\disciplinemoduleservicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DECC7F43-DA99-479B-8C43-4A7CDB8B81F1}|MicroServiceDiscipline.Infrastructure\\MicroServiceDiscipline.Infrastructure.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.infrastructure\\persistence\\disciplinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECC7F43-DA99-479B-8C43-4A7CDB8B81F1}|MicroServiceDiscipline.Infrastructure\\MicroServiceDiscipline.Infrastructure.csproj|solutionrelative:microservicediscipline.infrastructure\\persistence\\disciplinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33F7D8DC-CC91-4A22-BE89-91F116C39590}|MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.application\\microservicediscipline.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{33F7D8DC-CC91-4A22-BE89-91F116C39590}|MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj|solutionrelative:microservicediscipline.application\\microservicediscipline.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|solutionrelative:microservicediscipline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline\\microservicediscipline.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|solutionrelative:microservicediscipline\\microservicediscipline.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline\\microservicediscipline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|solutionrelative:microservicediscipline\\microservicediscipline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{420BF4ED-57AC-490D-8216-93D451CFC000}|MicroServiceDiscipline.Domain\\MicroServiceDiscipline.Domain.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.domain\\microservicediscipline.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{420BF4ED-57AC-490D-8216-93D451CFC000}|MicroServiceDiscipline.Domain\\MicroServiceDiscipline.Domain.csproj|solutionrelative:microservicediscipline.domain\\microservicediscipline.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DECC7F43-DA99-479B-8C43-4A7CDB8B81F1}|MicroServiceDiscipline.Infrastructure\\MicroServiceDiscipline.Infrastructure.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.infrastructure\\microservicediscipline.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DECC7F43-DA99-479B-8C43-4A7CDB8B81F1}|MicroServiceDiscipline.Infrastructure\\MicroServiceDiscipline.Infrastructure.csproj|solutionrelative:microservicediscipline.infrastructure\\microservicediscipline.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43699122-33EF-4E2B-ADF5-2C8CF1FCEEC0}|MicroServiceDiscipline\\MicroServiceDiscipline.csproj|solutionrelative:microservicediscipline\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33F7D8DC-CC91-4A22-BE89-91F116C39590}|MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.application\\interfaces\\idisciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F7D8DC-CC91-4A22-BE89-91F116C39590}|MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj|solutionrelative:microservicediscipline.application\\interfaces\\idisciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{420BF4ED-57AC-490D-8216-93D451CFC000}|MicroServiceDiscipline.Domain\\MicroServiceDiscipline.Domain.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.domain\\rules\\disciplinevalidationrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{420BF4ED-57AC-490D-8216-93D451CFC000}|MicroServiceDiscipline.Domain\\MicroServiceDiscipline.Domain.csproj|solutionrelative:microservicediscipline.domain\\rules\\disciplinevalidationrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420BF4ED-57AC-490D-8216-93D451CFC000}|MicroServiceDiscipline.Domain\\MicroServiceDiscipline.Domain.csproj|c:\\users\\asus\\documents\\microservicediscipline\\microservicediscipline.domain\\entities\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420BF4ED-57AC-490D-8216-93D451CFC000}|MicroServiceDiscipline.Domain\\MicroServiceDiscipline.Domain.csproj|solutionrelative:microservicediscipline.domain\\entities\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -95,15 +51,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DisciplinesController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\Controllers\\DisciplinesController.cs",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline\\Controllers\\DisciplinesController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\Controllers\\DisciplinesController.cs",
-              "RelativeToolTip": "MicroServiceDiscipline\\Controllers\\DisciplinesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Title": "DisciplineController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\Controllers\\DisciplineController.cs",
+              "RelativeDocumentMoniker": "MicroServiceDiscipline\\Controllers\\DisciplineController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\Controllers\\DisciplineController.cs",
+              "RelativeToolTip": "MicroServiceDiscipline\\Controllers\\DisciplineController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:19:28.291Z",
+              "WhenOpened": "2025-12-01T00:45:54.942Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\Program.cs",
+              "RelativeDocumentMoniker": "MicroServiceDiscipline\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\Program.cs",
+              "RelativeToolTip": "MicroServiceDiscipline\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:25:19.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MicroServiceDiscipline\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MicroServiceDiscipline\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T00:08:03.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDisciplineService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Application\\Interfaces\\IDisciplineService.cs",
+              "RelativeDocumentMoniker": "MicroServiceDiscipline.Application\\Interfaces\\IDisciplineService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Application\\Interfaces\\IDisciplineService.cs",
+              "RelativeToolTip": "MicroServiceDiscipline.Application\\Interfaces\\IDisciplineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:43:55.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisciplineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Infrastructure\\Persistence\\DisciplineRepository.cs",
+              "RelativeDocumentMoniker": "MicroServiceDiscipline.Infrastructure\\Persistence\\DisciplineRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Infrastructure\\Persistence\\DisciplineRepository.cs",
+              "RelativeToolTip": "MicroServiceDiscipline.Infrastructure\\Persistence\\DisciplineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:40:44.59Z"
             },
             {
               "$type": "Document",
@@ -113,75 +119,21 @@
               "RelativeDocumentMoniker": "MicroServiceDiscipline.Application\\Services\\DisciplineService.cs",
               "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Application\\Services\\DisciplineService.cs",
               "RelativeToolTip": "MicroServiceDiscipline.Application\\Services\\DisciplineService.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAcwDkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:28:47.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DisciplineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Infrastructure\\Persistence\\DisciplineRepository.cs",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline.Infrastructure\\Persistence\\DisciplineRepository.cs",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Infrastructure\\Persistence\\DisciplineRepository.cs",
-              "RelativeToolTip": "MicroServiceDiscipline.Infrastructure\\Persistence\\DisciplineRepository.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwC4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T21:04:20.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Result.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Application\\Common\\Result.cs",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline.Application\\Common\\Result.cs",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Application\\Common\\Result.cs",
-              "RelativeToolTip": "MicroServiceDiscipline.Application\\Common\\Result.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAwwCAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:53:38.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T23:40:00.94Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IDisciplineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Domain\\Ports\\IDisciplineRepository.cs",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline.Domain\\Ports\\IDisciplineRepository.cs",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Domain\\Ports\\IDisciplineRepository.cs",
-              "RelativeToolTip": "MicroServiceDiscipline.Domain\\Ports\\IDisciplineRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Title": "DisciplineValidationRules.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Domain\\Rules\\DisciplineValidationRules.cs",
+              "RelativeDocumentMoniker": "MicroServiceDiscipline.Domain\\Rules\\DisciplineValidationRules.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Domain\\Rules\\DisciplineValidationRules.cs",
+              "RelativeToolTip": "MicroServiceDiscipline.Domain\\Rules\\DisciplineValidationRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:48:33.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IDisciplineService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Application\\Interfaces\\IDisciplineService.cs",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline.Application\\Interfaces\\IDisciplineService.cs",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Application\\Interfaces\\IDisciplineService.cs",
-              "RelativeToolTip": "MicroServiceDiscipline.Application\\Interfaces\\IDisciplineService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T21:02:15.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\Program.cs",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline\\Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\Program.cs",
-              "RelativeToolTip": "MicroServiceDiscipline\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T21:07:57.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T23:39:14.447Z"
             },
             {
               "$type": "Document",
@@ -191,145 +143,9 @@
               "RelativeDocumentMoniker": "MicroServiceDiscipline.Domain\\Entities\\Discipline.cs",
               "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Domain\\Entities\\Discipline.cs",
               "RelativeToolTip": "MicroServiceDiscipline.Domain\\Entities\\Discipline.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:30:46.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\Properties\\launchSettings.json",
-              "RelativeToolTip": "MicroServiceDiscipline\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-19T15:28:50.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DisciplineDto.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Application\\DTOs\\DisciplineDto.cs",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline.Application\\DTOs\\DisciplineDto.cs",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Application\\DTOs\\DisciplineDto.cs",
-              "RelativeToolTip": "MicroServiceDiscipline.Application\\DTOs\\DisciplineDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:12:18.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DisciplineModuleServiceCollectionExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Infrastructure\\DependencyInjection\\DisciplineModuleServiceCollectionExtension.cs",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline.Infrastructure\\DependencyInjection\\DisciplineModuleServiceCollectionExtension.cs",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Infrastructure\\DependencyInjection\\DisciplineModuleServiceCollectionExtension.cs",
-              "RelativeToolTip": "MicroServiceDiscipline.Infrastructure\\DependencyInjection\\DisciplineModuleServiceCollectionExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:32:11.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MicroServiceDiscipline.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj",
-              "RelativeToolTip": "MicroServiceDiscipline.Application\\MicroServiceDiscipline.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-13T21:01:50.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\appsettings.json",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline\\appsettings.json",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\appsettings.json",
-              "RelativeToolTip": "MicroServiceDiscipline\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-13T20:38:37.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MicroServiceDiscipline.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Infrastructure\\MicroServiceDiscipline.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline.Infrastructure\\MicroServiceDiscipline.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Infrastructure\\MicroServiceDiscipline.Infrastructure.csproj",
-              "RelativeToolTip": "MicroServiceDiscipline.Infrastructure\\MicroServiceDiscipline.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-14T00:17:59.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MicroServiceDiscipline",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\MicroServiceDiscipline.csproj",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline\\MicroServiceDiscipline.csproj",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\MicroServiceDiscipline.csproj",
-              "RelativeToolTip": "MicroServiceDiscipline\\MicroServiceDiscipline.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-19T15:45:06.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MicroServiceDiscipline.csproj",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\MicroServiceDiscipline.csproj",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline\\MicroServiceDiscipline.csproj",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\MicroServiceDiscipline.csproj",
-              "RelativeToolTip": "MicroServiceDiscipline\\MicroServiceDiscipline.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-14T00:25:47.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MicroServiceDiscipline.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Domain\\MicroServiceDiscipline.Domain.csproj",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline.Domain\\MicroServiceDiscipline.Domain.csproj",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Domain\\MicroServiceDiscipline.Domain.csproj",
-              "RelativeToolTip": "MicroServiceDiscipline.Domain\\MicroServiceDiscipline.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-13T20:32:30.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline\\WeatherForecast.cs",
-              "RelativeToolTip": "MicroServiceDiscipline\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T00:25:55.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DisciplineValidationRules.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Domain\\Rules\\DisciplineValidationRules.cs",
-              "RelativeDocumentMoniker": "MicroServiceDiscipline.Domain\\Rules\\DisciplineValidationRules.cs",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\MicroServiceDiscipline\\MicroServiceDiscipline.Domain\\Rules\\DisciplineValidationRules.cs",
-              "RelativeToolTip": "MicroServiceDiscipline.Domain\\Rules\\DisciplineValidationRules.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:34:50.985Z"
+              "WhenOpened": "2025-11-29T23:38:42.47Z"
             }
           ]
         }

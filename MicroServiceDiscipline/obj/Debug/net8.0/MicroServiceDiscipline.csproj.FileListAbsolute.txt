@@ -6,7 +6,6 @@ C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline\obj\Debug\
 C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline\obj\Debug\net8.0\MicroServiceDiscipline.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline\obj\Debug\net8.0\MicroServiceDiscipline.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline\obj\Debug\net8.0\MicroServiceDiscipline.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline\bin\Debug\net8.0\appsettings.json
 C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline\bin\Debug\net8.0\MicroServiceDiscipline.staticwebassets.endpoints.json
 C:\Users\Asus\Documents\MicroServiceDiscipline\MicroServiceDiscipline\bin\Debug\net8.0\MicroServiceDiscipline.exe

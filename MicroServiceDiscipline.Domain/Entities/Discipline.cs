@@ -4,13 +4,17 @@
     {
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
-        public string? Description { get; set; }
+
+        // --- CAMBIOS CLAVE ---
+        public int UserId { get; set; } // Reemplaza a InstructorId, ahora es NOT NULL
         public TimeSpan StartTime { get; set; }
         public TimeSpan EndTime { get; set; }
-        public int? InstructorId { get; set; }
+        public bool IsActive { get; set; } // Nuevo campo
+
+        // --- CAMPOS DE AUDITORÍA ACTUALIZADOS ---
         public DateTime CreatedAt { get; set; }
         public string CreatedBy { get; set; } = string.Empty;
-        public DateTime? LastModification { get; set; }
-        public string? LastModifiedBy { get; set; }
+
+        // LastModification y LastModifiedBy se han eliminado
     }
 }

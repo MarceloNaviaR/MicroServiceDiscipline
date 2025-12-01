@@ -5,10 +5,10 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Disciplines": {
+    "/api/Discipline": {
       "get": {
         "tags": [
-          "Disciplines"
+          "Discipline"
         ],
         "responses": {
           "200": {
@@ -18,7 +18,7 @@
       },
       "post": {
         "tags": [
-          "Disciplines"
+          "Discipline"
         ],
         "requestBody": {
           "content": {
@@ -46,10 +46,10 @@
         }
       }
     },
-    "/api/Disciplines/{id}": {
+    "/api/Discipline/{id}": {
       "get": {
         "tags": [
-          "Disciplines"
+          "Discipline"
         ],
         "parameters": [
           {
@@ -70,7 +70,7 @@
       },
       "put": {
         "tags": [
-          "Disciplines"
+          "Discipline"
         ],
         "parameters": [
           {
@@ -110,7 +110,7 @@
       },
       "delete": {
         "tags": [
-          "Disciplines"
+          "Discipline"
         ],
         "parameters": [
           {
@@ -144,9 +144,9 @@
             "type": "string",
             "nullable": true
           },
-          "description": {
-            "type": "string",
-            "nullable": true
+          "userId": {
+            "type": "integer",
+            "format": "int32"
           },
           "startTime": {
             "type": "string",
@@ -156,25 +156,14 @@
             "type": "string",
             "format": "date-span"
           },
-          "instructorId": {
-            "type": "integer",
-            "format": "int32",
-            "nullable": true
+          "isActive": {
+            "type": "boolean"
           },
           "createdAt": {
             "type": "string",
             "format": "date-time"
           },
           "createdBy": {
-            "type": "string",
-            "nullable": true
-          },
-          "lastModification": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "lastModifiedBy": {
             "type": "string",
             "nullable": true
           }
